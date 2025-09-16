@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Field Note Extraction API
 
 This project provides a powerful, AI-driven API to automatically extract structured data from images of construction field notes. It uses modern machine learning models to perform Optical Character Recognition (OCR) and intelligent information extraction, converting unstructured images into clean, usable JSON data.
@@ -35,6 +34,4 @@ This project provides a powerful, AI-driven API to automatically extract structu
 ```bash
 git clone https://github.com/truonggiang1757/field_note.git
 cd field_note
-=======
-# field_note
->>>>>>> de3fd0d40dc4cbeafffe6b101a83cba497700250
+```
